@@ -1,4 +1,3 @@
-
 ## Resources
 * Focus (limited, turn-based)
 * Hand
@@ -6,10 +5,7 @@
 
 ## State
 * Individual state
-* Global state
-** Deadling (?)
-** Intoxicating
-** Emotional upset
+* Global state (e.g. deadling (?), intoxicating, emotional upset)
 
 ## Verticals
 Determines terminal goals.
