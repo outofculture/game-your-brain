@@ -1,30 +1,30 @@
 
 
-==Resources==
+## Resources
 * Focus (limited, turn-based)
 * Hand
 * Deck
 
-==State==
+## State
 * Individual state
 * Global state
 * * Deadling (?)
 * * Intoxicating
 * * Emotional upset
 
-==Verticals==
+## Verticals
 Determines terminal goals.
 * Startup
 * Science
 * Law
 * Relationships
 
-==Cards==
+## Cards
 * Attack
 * Cognitive action
 * Skills
 * Heuristics
 * More categories
 
-==Turn==
+## Turn
 * Series of obligatory actions (modified by cards, focus)
